@@ -167,5 +167,4 @@ class Agent extends Middleware
 
         return false;
     }
-
 }
